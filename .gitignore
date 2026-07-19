@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+data/public/
+outputs/*.json
+outputs/*.md
+!outputs/.gitkeep
