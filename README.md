@@ -15,6 +15,16 @@
 5. 前20个同上下文样本默认Shadow Mode；
 6. 可选Chronos-Bolt零样本预测后端，默认实现不需要下载大模型。
 
+## 工作流程
+
+<p align="center">
+  <img
+    src="docs/assets/autoguard-fleet-drift-flow.jpg"
+    alt="AutoGuard Fleet Drift workflow"
+    width="900"
+  />
+</p>
+
 ## 快速运行
 
 ```bash
